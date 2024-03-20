@@ -1,4 +1,3 @@
-![Front-end-Portifolio codegui criado pelo curso da Alura](https://github.com/codegui/portifolio-alura-oracle/assets/58580479/41e62ea4-f483-4949-b8f7-fbe4c1f36f54)
 
 # Portfólio - c0demaia
 
